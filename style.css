@@ -1,0 +1,30 @@
+h2, h1{
+	text-transform: capitalize;
+	color: #82CFF3;
+}
+h1{
+	font-size: 50px;
+}
+div{
+	font-family: 'Arial';
+	padding: 0 40px;
+	margin: 0 auto;
+	width: 1100px;
+	background-color: #777777;
+
+}
+.aa li{
+	display: inline;
+}
+span{
+	color: yellow;
+}
+a{
+	color: red;
+}
+p{
+	color:white;
+}
+li{
+	color: white;
+}
